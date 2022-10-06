@@ -71,4 +71,5 @@ span {
   border-bottom-right-radius: 10px;
   object-fit: cover;
   opacity: 0.6;
+  display: block;
 }
